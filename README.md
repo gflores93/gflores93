@@ -4,7 +4,7 @@
 - Frontend: Angular, Angular Material and Bootstrap
 - Backend & DB: ASP.NET and Microsoft SQL Server
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gflores93&show_icons=true&locale=en&layout=compact&theme=dark_dimmed" alt="gflores93" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gflores93&show_icons=true&locale=es&layout=compact&theme=dark_dimmed" alt="gflores93" /></p>
 
 
 <h3 align="left">Tools I use:</h3>
